@@ -1,6 +1,5 @@
 
 rows = int(input("Rows : "))
-
 cols = 1
 
 for x in range(rows):
@@ -10,3 +9,12 @@ for x in range(rows):
 
     cols += 1
     print("")
+
+# ANSWER
+
+# rows = 4
+
+# *
+# **
+# ***
+# ****
