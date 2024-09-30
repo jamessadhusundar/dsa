@@ -1,6 +1,5 @@
 
 rows = int(input("Rows : "))
-
 cols = int(input("Columns : "))
 
 for x in range(rows):
@@ -9,3 +8,12 @@ for x in range(rows):
         print("*", end="")
 
     print("")
+
+# ANSWER
+#
+# rows = 3
+# cols = 3
+#
+# ****
+# ****
+# ****
